@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-streamlit
-requests
-faster-whisper
-torch
-python-dotenv
-huggingface_hub
-pyannote.audio
